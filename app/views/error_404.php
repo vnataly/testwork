@@ -1,0 +1,1 @@
+<img src="<?php echo IMGPATH."404.png";?>"></img>
